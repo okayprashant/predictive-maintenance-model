@@ -1,0 +1,13 @@
+# Requirements for Predictive Maintenance notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+notebook
+scipy
+joblib
+shap
+imbalanced-learn
+# Optional: add 'xgboost' or 'lightgbm' if using gradient boosting models
