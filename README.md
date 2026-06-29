@@ -1,4 +1,4 @@
-# Predictive Maintenance (AI4I 2020)
+# Predictive Maintenance Model
 
 **Problem**  
 This project explores how sensor data can be used to predict machine failures before they happen.  
