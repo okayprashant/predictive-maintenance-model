@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+profile_default/
+*.nbconvert.ipynb
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Data and local artifacts
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+
+# Logs and reports
+*.log
+reports/
+
+# Ignore environment files
+.env
+
+# Ignore personal notebook checkpoints and outputs
+**/.ipynb_checkpoints
+
+# Keep only project assets tracked explicitly
+assets/*
+!assets/*.png
+!assets/*.csv
