@@ -72,11 +72,11 @@ Local Prediction Explanations
 
 ## 💡 Key Insights
 
-i. The dataset is highly imbalanced, making PR-AUC a more informative metric than accuracy.
-ii. Torque and Tool Wear are the most influential predictors of machine failure.
-iii. Rotational Speed significantly contributes to failure prediction under certain operating conditions.
-iv. Temperature variables provide supporting information but have comparatively lower predictive importance.
-v. Explainability confirms that multiple sensor interactions influence machine failure rather than any single feature.
+1. The dataset is highly imbalanced, making PR-AUC a more informative metric than accuracy.
+2. Torque and Tool Wear are the most influential predictors of machine failure.
+3. Rotational Speed significantly contributes to failure prediction under certain operating conditions.
+4. Temperature variables provide supporting information but have comparatively lower predictive importance.
+5. Explainability confirms that multiple sensor interactions influence machine failure rather than any single feature.
 
 
 ### Visualizations
@@ -218,12 +218,12 @@ pip install -r requirements.txt
 ---
 
 ## 🎯 Future Improvements
-Hyperparameter Optimization
-XGBoost and LightGBM Implementation
-Real-Time Prediction Dashboard
-Cloud Deployment
-Live Sensor Integration
-Automated Maintenance Alerts
+1. Hyperparameter Optimization
+2. XGBoost and LightGBM Implementation
+3. Real-Time Prediction Dashboard
+4. Cloud Deployment
+5. Live Sensor Integration
+6. Automated Maintenance Alerts
 
 ---
 
