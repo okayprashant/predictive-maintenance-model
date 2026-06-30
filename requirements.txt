@@ -8,6 +8,7 @@ jupyterlab
 notebook
 scipy
 joblib
+SHAP
 shap
 imbalanced-learn
 # Optional: add 'xgboost' or 'lightgbm' if using gradient boosting models
